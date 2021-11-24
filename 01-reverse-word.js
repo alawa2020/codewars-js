@@ -11,8 +11,8 @@ const reverse_text = text => {
 
 }
 
-const text = 'hola como estas mel';
-const text_2 = 'Mel  Cary'
+const text = 'hola como estas catie';
+const text_2 = 'Catie B'
 
 
 // console.log(reverse_text(text));
@@ -40,4 +40,4 @@ function reverseWords(str) {
       ) ).join(' ')
   }
 
-  console.log(my_other_solution('Mel  Cary'))
+  console.log(my_other_solution('Catie B'))
